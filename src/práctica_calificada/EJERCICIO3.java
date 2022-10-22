@@ -4,7 +4,7 @@ package práctica_calificada;
 
 /**
  *
- * @author EDUARDO
+ * @author GAGO RAMOS EDUARDO JESÚS
  */
 public class EJERCICIO3 {
 

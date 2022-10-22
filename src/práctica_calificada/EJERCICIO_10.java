@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author EDUARDO
+ * @author GAGO RAMOS EDUARDO JESÚS
  */
 public class EJERCICIO_10 {
 
